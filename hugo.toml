@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://shovon-b.github.io/shov/"
 languageCode = "en-us"
 title = "Shovon Biswas"
 disableKinds = ["taxonomy", "term"]
